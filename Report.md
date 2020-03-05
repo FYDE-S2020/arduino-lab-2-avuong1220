@@ -1,6 +1,6 @@
-Name:
+Name: Amanda Vuong
 
-EID:
+EID: axv72
 
 Team Number:
 
