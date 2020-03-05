@@ -8,15 +8,15 @@ Team Number:
 
 1. What is the purpose of an IP address?
 
-    answer
+    For other devices to identify
 
 2. What is a DNS? What are the benefits of using domain names instead of IP addresses?
 
-    answer
+    Domain name servers. Easier to read than IP address
 
 3. What is the difference between a static IP and a dynamic IP?
 
-    answer
+    Static: address doesn't change. Dynamic: assigned by the 
 
 4. What is the tradeoff between UDP and TCP protocols?
 
