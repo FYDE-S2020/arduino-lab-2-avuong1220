@@ -22,7 +22,7 @@
   Feel free to apply it to any other example. It's simple!
  *************************************************************/
 
-/* Comment this out to disable prints and save space */
+/*  Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
 #define LED 2
 
