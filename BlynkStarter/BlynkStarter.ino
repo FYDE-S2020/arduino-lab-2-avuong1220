@@ -33,20 +33,20 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "6IgpiYXOpMFVaQMsqrJwhIvJv0i5_1yU";
+char auth[] = "PvpmNY2vwoVOUOaPq7_f27j_HQFx8igr";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
 // The EE IOT network is hidden. You might not be able to see it.
 // But you should be able to connect with these credentials. 
-char ssid[32] = "mandi";
-char pass[32] = "mandi123";
+char ssid[32] = "EE-IOT-Platform-02";
+char pass[32] = "g!TyA>hR2JTy";
 
 int ledState = 0;
 int dutyCycle = 1023;
 BlynkTimer timer;
 int time_count = 0;
-String content = "";
+String content = "hello world";
 //button = V0, slideer = V1, display = V2, terminal = V3
 
 const int freq = 5000;     // 5KHz frequency is more than enough. Remember we used 100 before.
